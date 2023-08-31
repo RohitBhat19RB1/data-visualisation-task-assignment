@@ -31,14 +31,14 @@ yarn -v
 
 # Installation
 
-1. Clone this repository to your local machine using:
-git clone https://github.com/RohitBhat19RB1/data-visualisation-task.git
+  # 1. Clone this repository to your local machine using:
+  git clone https://github.com/RohitBhat19RB1/data-visualisation-task-assignment.git
 
-2. Navigate to the project directory:
-cd data-visualisation-task
+  # 2. Navigate to the project directory:
+  cd data-visualisation-task-assignment
 
-3. Install project dependencies using Yarn:
-yarn install
+  # 3. Install project dependencies using Yarn:
+  yarn install
 
 # Running the Project
 
